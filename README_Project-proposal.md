@@ -2,6 +2,7 @@
 # Conventional Transition-State Theory (CTST) in Python
 <img width="1829" height="949" alt="Untitled 001" src="https://github.com/user-attachments/assets/d24a0710-5160-439e-97ed-6ef32e5d0327" />
 
+This project is a part of the final assignment of a Python based coursework offered by Weizmann Institute ().
 ## 1. Motivation
 Conventional Transition State Theory (CTST) provides a theoretical framework for calculating chemical reaction rate constants by assuming a quasi-equilibrium between reactants and the transition state. CTST relates the reaction rate to the statistical properties of molecules and the activated complex located at the saddle point of the potential energy surface. Implementing CTST in Python enables automated and reproducible calculations of reaction kinetics from quantum chemical data. Such computational tools facilitate the investigation of reaction mechanisms and the prediction of temperature-dependent rate constants for complex chemical systems.
 
