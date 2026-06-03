@@ -1,5 +1,5 @@
 
-# Conventional Transition-State Theory in Python
+# Conventional Transition-State Theory (CTST) in Python
 <img width="1829" height="949" alt="Untitled 001" src="https://github.com/user-attachments/assets/d24a0710-5160-439e-97ed-6ef32e5d0327" />
 
 ## 1. Motivation
