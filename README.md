@@ -162,7 +162,8 @@ In this project, the CTST rate constant is calculated by solving equation (10) u
  
 ## 4. Requirements
 (i) NumPy\
-(ii) Scipy
+(ii) Scipy\
+(iii) pytest
 
 - a requirement.txt file will be added with the other files in directory.
 
@@ -174,6 +175,9 @@ In this project, the CTST rate constant is calculated by solving equation (10) u
 
 After running this command, the CTST rate constant and related partition function results are generated in the output file.
 
+## 7. Test file
+A test file is added with the code, **test_rate_calc.py**, which will test the code. For run the test file, the command one can use:\
+```pytest test_rate_calc.py```.
 
 **N.B.**
 - Here the reaction H + HBr = H<sub>2</sub> + Br is used as example for this code from the book Chemical Kinetics by K. J. Laidler.
