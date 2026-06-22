@@ -1,0 +1,52 @@
+================================================================================================================
+CTSTpy: Python code for Rate Theory, A CTST rate calculator
+================================================================================================================
+The reaction is H + HBr = H2 + Br
+
+________________________________Information about Reactant-1____________________________________________________
+Reactant-1 is Monatomic.
+Total mass of Reactant-1 is 1.68336000e-27 kg.
+Again, Reactant-1 is monatomic.
+Volume factor of Reactant-1 is 1.0 m3.
+Symmetry factor of Reactant-1 is 1.
+Translational partition function of Reactant-1 is 9.96753614e+29 m-3.
+Your Reactant-1 has only a single atom !!!
+Again, your Reactant-1 has only a single atom !!!
+Total partition function of Reactant-1 is 9.96753614e+29 m-3.
+
+________________________________Information about Reactant-2____________________________________________________
+Reactant-2 is Diatomic.
+Total mass of Reactant-2 is 1.35149760e-25 kg.
+Moments of inertia (kg m2) of Reactant-2 are: I_A=-9.44409856e-66, I_B=3.31048087e-47, I_C=3.31048087e-47
+Volume factor of Reactant-2 is 1.0 m3.
+Symmetry factor of Reactant-2 is 1.
+Translational partition function of Reactant-2 is 7.17043052e+32 m-3.
+Reactant-2 is linear.
+Rotational partition function of Reactant-2 is 2.46593991e+01.
+Reactant-2 has 1 vibrational frequency.
+1 frequency is 2650.0 cm-1.
+Vibrational partition function of Reactant-2 is 1.00000313e+00.
+Total partition function of Reactant-2 is 1.76819061e+34 m-3.
+
+________________________________Information about Activated complex____________________________________________________
+Activated complex is Polyatomic.
+Total mass of Activated complex is 1.36833120e-25 kg.
+Moments of inertia (kg m2) of Activated complex are: I_A=6.40223546e-50, I_B=1.74344825e-46, I_C=1.74408848e-46
+Volume factor of Activated complex is 1.0 m3.
+Symmetry factor of Activated complex is 1.
+Translational partition function of Activated complex is 7.30481394e+32 m-3.
+Activated complex is linear.
+Rotational partition function of Activated complex is 1.29915186e+02.
+Activated complex has 2 vibrational frequencies.
+1 frequency is 460.0 cm-1.
+2 frequency is 2340.0 cm-1.
+Vibrational partition function of Activated complex is 1.12460358e+00.
+Total partition function of Activated complex is 1.06725584e+35 m-3.
+
+________________________Information about Temperature, Energy barrier and Rate constant_________________________
+Temperature is 300.0 K.
+The energy barrier of the reaction is 5.0 kj mol-1.
+The CTST rate constant of the reaction is 5.09912866e-18 m3 s-1.
+________________________________________________________________________________________________________________
+| Hurray! A successful calculation! |
+------------------------------------------------End of the file-------------------------------------------------
